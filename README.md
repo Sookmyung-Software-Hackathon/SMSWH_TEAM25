@@ -71,7 +71,7 @@ Back: Node.js
 ---
 
 ✔ 시작 페이지
-
+![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/3b45aa9d-23ca-40a1-bbc7-0143c255483d/Untitled.png)
 
 
 ✔ 언어 선택 페이지
