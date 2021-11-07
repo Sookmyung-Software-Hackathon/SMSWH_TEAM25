@@ -9,7 +9,7 @@
 
 ### 🔹산출물 주소
 
-[https://yundabin0608.github.io/seekmyung.github.io/](https://yundabin0608.github.io/seekmyung.github.io/)
+<div align="center">[https://yundabin0608.github.io/seekmyung.github.io/](https://yundabin0608.github.io/seekmyung.github.io/)</div>
 
 ### 🔹분야
 
