@@ -18,6 +18,7 @@
 ## 🌌서비스 개요
 
 ---
+![Untitled-6](https://user-images.githubusercontent.com/63496587/140653451-69fb49f5-32f2-422a-becd-8bd475c4f505.png)
 
 
 ## 식명(SEEKMYUNG)
@@ -71,17 +72,21 @@ Back: Node.js
 ---
 
 ✔ 시작 페이지
+![Untitled-5](https://user-images.githubusercontent.com/63496587/140653434-f55418e6-2279-423d-9a4f-c476e2b92985.png)
 
 
 
 ✔ 언어 선택 페이지
+![Untitled-4](https://user-images.githubusercontent.com/63496587/140653432-de335b94-b65f-4aaf-992a-af8273c716e1.png)
 
 
 
 ✔ 글자수 선택 페이지
+![Untitled-3](https://user-images.githubusercontent.com/63496587/140653430-5407f8b4-898e-4627-ace8-cee24eecabf1.png)
 
 
 ✔ 관심사 선택 페이지
+![Untitled](https://user-images.githubusercontent.com/63496587/140653413-315b0409-ae59-4685-bd56-93d7898b7818.png)
 
 
 ✔ 결과 페이지
