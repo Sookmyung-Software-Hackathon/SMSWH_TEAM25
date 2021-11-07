@@ -9,8 +9,7 @@
 
 ### 🔹산출물 주소
 
-<div align="center">[https://yundabin0608.github.io/seekmyung.github.io/](https://yundabin0608.github.io/seekmyung.github.io/)</div>
-
+[https://yundabin0608.github.io/seekmyung.github.io/](https://yundabin0608.github.io/seekmyung.github.io/)
 ### 🔹분야
 
 웹
@@ -86,7 +85,8 @@ Back: Node.js
 
 
 ✔ 관심사 선택 페이지
-![Untitled](https://user-images.githubusercontent.com/63496587/140653413-315b0409-ae59-4685-bd56-93d7898b7818.png)
+![Untitled-2](https://user-images.githubusercontent.com/63496587/140653519-6243da62-1b18-4453-a300-efeada27f2db.png)
+
 
 
 ✔ 결과 페이지
